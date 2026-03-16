@@ -75,8 +75,8 @@ document.addEventListener('DOMContentLoaded', function () {
                 <div class="repo-popup-tag"><span class="repo-popup-tag-dot"></span>Support 8enterprise</div>
                 <h2 id="repo-popup-title">Found this useful?</h2>
                 <p>
-                    If this site saved you time, please consider starring the repo on GitHub.
-                    It helps more students find the project and supports the work behind it.
+                    If this site saved you some time or made things easier, 
+                    consider giving the project a ⭐ on GitHub. It really means a lot.
                 </p>
                 <div class="repo-popup-actions">
                     <a class="repo-popup-star" href="${repoUrl}" target="_blank" rel="noreferrer">Star the repo</a>
